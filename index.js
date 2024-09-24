@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                  VIHAGA-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
+//  * @project_name : VIHAGA-MD
+//  * @author : VIHAGA Official
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @description : Vihaga-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
+//base by Vihaga Official
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +94759329023
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * Credit To Vihaga Official
+//   * © 2024 VIHAGA-MD-V7.
 // ⛥┌┤
 // */
 
